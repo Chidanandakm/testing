@@ -5,7 +5,7 @@ function App() {
   return (
     <div className="App">
       <h1>testing
-        this has third commit
+        this has second commit
       </h1>
     </div>
   );
